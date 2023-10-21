@@ -1,4 +1,0 @@
-cd  notebook
-virtualenv jupyterenv
-source jupyterenv/bin/activate
-jupyter notebook
